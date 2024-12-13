@@ -11,4 +11,4 @@ python3 port-scanner.py [Your running IP] [Target IP] [--single or --multiple] [
 
 # Disclaimer
 
-I am not responsible for the usage of this script. Do not run the script on a network that is not yours, you are allowed to run the script on <a href="http://scanme.nmap.org/">scanme.nmap.org<a> or on a local IP.
+**I am not responsible for the usage of this script. Do not run the script on a network that is not yours**, you are allowed to run the script on <a href="http://scanme.nmap.org/">scanme.nmap.org<a> or on a local IP.

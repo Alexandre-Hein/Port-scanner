@@ -5,7 +5,7 @@ For example, you can run the code by writing in the command line: <br><br>
 Or: <br><br>
     ```python3 port-scan.py scanme.nmap.org --multiple 80 443 22 62430```
 
-# Command line:
+# Command line
 
 python3 port-scanner.py [Your running IP] [Target IP] [--single or --multiple] [port(s)]
 

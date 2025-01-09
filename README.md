@@ -1,5 +1,5 @@
 # Port-scanner
-This is a small script i developed in order to learn more about ports and port scanning just for fun. The script allows you to scan the port/ports from a target IP with your own IP.
+This is a small script i wrote with the help of the python library "socket" in order to learn more about ports and port scanning just for fun. The script allows you to scan the port/ports from a target IP with your own IP.
 For example, you can run the code by writing in the command line: <br><br>
     ```python3 port-scan.py 127.0.0.1 --single 80``` <br><br>
 Or: <br><br>
